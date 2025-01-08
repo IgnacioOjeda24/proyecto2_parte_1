@@ -1,9 +1,7 @@
 # Proyecto_parte_1: 
 Instrucción:
 
-Ejecución de modelos: Ejecuta localmente un modelo (No tiene que ser de nlp), usa un modelo que puedas usar en local en algún proyecto, por ejemplo análisis de sentimientos o identificación de objetos en una imagen.
-
-Documentación: Esta documentación debe incluir los siguientes apartados: requisitos para la ejecución, tutorial de uso e instalación, ejemplos de ejecución, y una sección sobre transformers y ejecución de modelos en local, en la que se detalle lo aprendido y lo aprendido por tu cuenta sobre los transformers.
+Proyecto 1 : Utilizando un api de hugginface de un modelo LLM crea una aplicación donde el usuario pueda realizar preguntas y el modelo le responda, en el readme especifica el modelo usado y los parámetros en la petición junto con un ejemplo de uso.
 
 # Selección del modelo de Hugging Face: 
 
