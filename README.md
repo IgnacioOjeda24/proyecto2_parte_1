@@ -20,7 +20,8 @@ Este proyecto utiliza un modelo Vision Transformer (ViT) para clasificar las im√
 3. Librer√≠as instaladas en foto.
 
    
-![u1](https://github.com/user-attachments/assets/dd969a8c-3457-4116-b280-07394cc9ec33)
+![U1](https://github.com/user-attachments/assets/10fde574-a813-4a83-bc0f-826db50c0252)
+
 
    
 4. Antes de correr el programa, instalar los siguientes comandos:
